@@ -13,3 +13,47 @@ __pycache__/
 # Misc
 .DS_Store
 Thumbs.db
+
+# === CMake build files ===
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+build/
+*/build/
+
+# === Compiled binaries/libraries ===
+*.so
+*.so.*
+*.a
+*.o
+*.lo
+*.la
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.exe
+
+# === Logs and temporary files ===
+*.log
+*.swp
+*.swo
+
+# === Python __pycache__ ===
+__pycache__/
+*.egg-info/
+
+# === VSCode and JetBrains IDEs ===
+.vscode/
+.idea/
+
+# === Local installs (optional) ===
+/install/
+/usr/local/include/pangolin/
+/usr/local/lib/libpangolin*
+
+# === Misc ===
+*.bak
+*.bck
+*.tmp

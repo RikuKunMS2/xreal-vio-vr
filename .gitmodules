@@ -1,0 +1,9 @@
+[submodule "slam/orbslam3"]
+	path = slam/orbslam3
+	url = https://github.com/UZ-SLAMLab/ORB_SLAM3.git
+[submodule "libs/DBoW3"]
+	path = libs/DBoW3
+	url = https://github.com/rmsalinas/DBoW3.git
+[submodule "libs/Pangolin"]
+	path = libs/Pangolin
+	url = https://github.com/stevenlovegrove/Pangolin.git
