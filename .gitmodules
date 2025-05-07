@@ -7,3 +7,6 @@
 [submodule "libs/Pangolin"]
 	path = libs/Pangolin
 	url = https://github.com/stevenlovegrove/Pangolin.git
+[submodule "drivers/nrealAirLinuxDriver"]
+	path = drivers/nrealAirLinuxDriver
+	url = https://gitlab.com/TheJackiMonster/nrealAirLinuxDriver.git
