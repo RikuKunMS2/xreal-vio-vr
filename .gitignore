@@ -1,0 +1,15 @@
+# Build and Python
+build/
+__pycache__/
+*.pyc
+*.o
+*.so
+
+# Godot
+.import/
+.export/
+*.log
+
+# Misc
+.DS_Store
+Thumbs.db
