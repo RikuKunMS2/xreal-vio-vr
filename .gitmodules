@@ -10,3 +10,6 @@
 [submodule "drivers/nrealAirLinuxDriver"]
 	path = drivers/nrealAirLinuxDriver
 	url = https://gitlab.com/TheJackiMonster/nrealAirLinuxDriver.git
+[submodule "xr/xrdesktop"]
+	path = xr/xrdesktop
+	url = https://gitlab.freedesktop.org/xrdesktop/xrdesktop.git
